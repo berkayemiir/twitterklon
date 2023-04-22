@@ -1,0 +1,1376 @@
+@media screen and (max-width:2150px){
+    .profile1{
+        right: 600px;
+    }
+    .kapsa2 .three{
+        position: relative;
+        right: 500px;
+    }
+}
+@media screen and (max-width:1980px){
+    .home2{
+        margin-top: 120px;
+        margin-left: -20px;
+        /* width: 560px; */
+    }
+    .ikii{
+        margin-left: -20px;
+        /* width: 560px; */
+    }
+    .ikii h5{
+        margin-left: 50px;
+    }
+    .home2 img{
+        margin-left: 50px;
+    }
+    /* hr{
+        margin-left: -110px;
+    } */
+    .global1{
+        margin-left: 70px;
+    }
+    .global img{
+        margin-left: 60px;
+    }
+    .back img{
+        width: 600px;
+    }
+    .profile1{
+        right: 300px;
+    }
+    .kapsa2 .three{
+        position: relative;
+        right: 150px;
+    }
+    .kapsa .search{
+        margin-left: 20px;
+    }
+    .kapsa2 .search{
+        margin-left: 20px;
+    }
+    .kapsa .three{
+        margin-left: 350px;
+
+    }
+    .kapsa .one{
+        margin-left: -200px;
+
+    }
+    .kapsa3 .one{
+        margin-left: 50px;
+    }
+    .kapsa3 .like{
+        margin-left: 1450px;
+    }
+    .kapsa2 .like{
+        margin-left: 180px;
+    }
+    .kapsa2 .haber{
+        margin-left: 180px;
+    }
+    .kapsa2 .form-control{
+        margin-left: 150px;
+    }
+    .kapsa4 .one{
+        margin-left: -200px;
+    }
+    .sear{
+        margin-left: -350px;
+    }
+    .kapsa4 .lik{
+        position: relative;
+        left: 1150px;
+        top: -600px;
+    }
+    .b9 img{
+        width: 500px;
+        height: 500px;
+    }
+
+}
+@media screen and (max-width:1850px){
+    .profile1{
+        right: 150px;
+    }
+    .back img{
+        width: 700px;
+    }
+    .kapsa2 .three{
+        position: relative;
+        right: 150px;
+    }
+    .b9 img{
+        width: 500px;
+        height: 500px;
+    }
+    .kapsa3 .like{
+        margin-left: 1300px;
+    }
+    .kapsa .three{
+        margin-left: 350px;
+
+    }
+    .kapsa .one{
+        margin-left: -200px;
+
+    }
+    .kapsa3 .one{
+        margin-left: 50px;
+    }
+    .kapsa3 .like{
+        margin-left: 1430px;
+    }
+    .kapsa2 .like{
+        margin-left: 180px;
+    }
+    .kapsa2 .haber{
+        margin-left: 180px;
+    }
+    .kapsa2 .form-control{
+        margin-left: 150px;
+    }
+}
+@media screen and (max-width:1805px){
+    .kapsa3 .like{
+        margin-left: 1400px;
+    }
+    .kapsa4 .like{
+        left: 1400px;
+    }
+}
+@media screen and (max-width:1770px){
+    .kapsa3 .like{
+        margin-left: 1350px;
+    }
+}
+@media screen and (max-width:1720px){
+    .type1{
+       width: 200px;
+        
+    }
+    .type1 p{
+        font-size: 10px;
+    }
+    .type1 img{
+        margin-top: -5px;
+    }
+    .home2{
+        margin-top: 120px;
+        margin-left: -40px;
+        /* width: 560px; */
+    }
+    .ikii{
+        margin-left: -40px;
+        /* width: 560px; */
+    }
+    .ikii h5{
+        margin-left: 50px;
+    }
+    .home2 img{
+        margin-left: 50px;
+    }
+    .global1{
+        margin-left: 50px;
+    }
+    .three{
+        margin-left: 10px;
+    }
+    .kapsa3 .like{
+        margin-left: 1200px;
+    }
+    .kapsa .three{
+        margin-left: 280px;
+    }
+    .kapsa .one{
+        margin-left: -100px;
+    }
+    
+}
+@media screen and (max-width:1620px){
+    .kapsa3 .like{
+        margin-left: 1100px;
+    }
+    .search2{
+        margin-left: 300px;
+    }
+    .ılgı h5{
+        left: 360px;
+    }
+    .kapsa3 .global1{
+        margin-left: 350px;
+    }
+}
+@media screen and (max-width:1650px){
+    .profile1{
+        right: 100px;
+    }
+    .kapsa2 .three{
+        position: relative;
+        right: 150px;
+    }
+    .kapsa4 .one{
+        margin-left: -150px;
+        width: 150px;
+    }
+    .kapsa4 .like{
+        left: 1300px;
+    }
+    .kapsa4 .ılgı{
+        margin-left: 50px;
+    }
+    .kapsa4 .form-control{
+        margin-left: 70px;
+    }
+}
+@media screen and (max-width:1621px){
+    .kapsa4 .form-control{
+        margin-left: 250px;
+        width: 500px;
+    }
+    .kapsa4 .ılgı{
+        margin-left: 200px;
+    }
+    .kapsa4 .one{
+        margin-left: -100px;
+        width: 150px;
+        margin-top: 50px;
+    }
+    .kapsa4 .form{
+        width: 500px;
+    }
+}
+@media screen and (max-width:1534px){
+    .profile1{
+        right: 100px;
+    }
+    .kapsa2 .three{
+        position: relative;
+        right: 50px;
+    }
+    .back img{
+        width: 600px;
+    }
+    .pro img{
+        width: 80px;
+        height: 80px;
+    }
+    .pro button{
+        margin-left: 350px;
+        width: 120px;
+        font-size: 15px;
+        
+    }
+    .b6 p{
+        margin-left: 20px;
+    }
+    .kapsa3 .like{
+        margin-left: 1000px;
+    }
+    .search2 .form-control{
+        width: 500px;
+    }
+    .kapsa .three{
+        margin-left: 10px;
+    }
+}
+@media screen and (max-width:1580px){
+    .home2{
+        margin-top: 120px;
+        margin-left: -60px;
+        
+    }
+    .ikii{
+        margin-left: -60px;
+        
+    }
+    .global1{
+        margin-left: 30px;
+    }
+    .kapsa .three{
+        margin-left: 180px;
+    }
+    .kapsa2 .like{
+        margin-left: 50px;
+    }
+    .kapsa2 .haber{
+        margin-left: 50px;
+    }
+    .kapsa2 .form-control{
+        margin-left:30px;
+    }
+}
+@media screen and (max-width:1522px){
+    .kapsa .one{
+        margin-left: -50px;
+    }
+}
+@media screen and (max-width:1450px){
+    .kapsa4 .one{
+        margin-left: 0px;
+    }
+    .kapsa4 .like{
+        left: 1250px;
+    }
+}
+@media screen and (max-width:1435px){
+    .kapsa .three{
+        margin-left: 140px;
+    }
+}
+
+@media screen and (max-width:1415px){
+    .kapsa3 .like{
+        margin-left: 900px;
+    }
+    .search2 .form-control{
+        width: 450px;
+    }
+    .kapsa .search{
+        margin-left: 20px;
+    }
+    .kapsa .one{
+        margin-left: 0px;
+    }
+}
+@media screen and (max-width:1400px){
+    .one p{
+        font-size: 12px;
+        margin-top: 5px;
+    }
+    .type1{
+        margin-top: 40px;
+        margin-left: -15px;
+        width: 180px;
+        height: 60px;
+         
+     }
+     .e{
+        position: relative;
+        top: -15px;
+        right: 5px;
+     }
+     .type1 img{
+         margin-top: -2px;
+     }
+     .t2{
+        display: none;
+     }
+     .home2{
+        margin-top: 120px;
+        margin-left: -90px;
+        /* width: 598px; */
+    }
+    .ikii{
+        margin-left: -90px;
+        width: 535px;
+    }
+    /* hr{
+        margin-left: -50px;
+    } */
+    .global1{
+        margin-left: 0px;
+    }
+    .search{
+        margin-left: -25px;
+    }
+    .like{
+        margin-left: -20px;
+    }
+    .haber{
+        margin-left: -20px;
+    }
+    .kapsa2 .three{
+        position: relative;
+        right: 0px;
+    }
+   
+    .kapsa2 .like{
+        margin-left: 50px;
+    }
+    .kapsa2 .haber{
+        margin-left: 50px;
+    }
+    .kapsa .like{
+        margin-left: 50px;
+    }
+    .kapsa3 .like{
+        margin-left: 970px;
+    }
+    .kapsa3 .one{
+        margin-left: 50px;
+    }
+    .kapsa .haber{
+        margin-left: 50px;
+    }
+    .kapsa .three{
+        margin-left: 100px;
+    }
+
+}
+@media screen and (max-width:1375px){
+    .kapsa4 .one{
+        margin-left: -50px;
+    }
+    .kapsa4 .like{
+        left: 1150px;
+    }
+
+}
+
+@media screen and (max-width:1360px){
+    .profile1{
+        right:170px;
+    }
+    .kapsa2 .three{
+        position: relative;
+        right: -10px;
+    }
+    .kapsa2 .ilk{
+        margin-left: -10px;
+    }
+
+}
+@media screen and (max-width:1320px){
+    .kapsa3 .like{
+        margin-left: 800px;
+    }
+    .search2{
+        margin-left: 200px;
+    }
+    .ılgı h5{
+        left: 260px;
+    }
+    .kapsa3 .global1{
+        margin-left: 250px;
+    }
+    .kapsa .three{
+        margin-left: 80px;
+    }
+    .kapsa .ikii{
+        margin-left: -170px;
+    }
+    .kapsa .home2{
+        margin-left: -150px;
+    }
+    .kapsa .global1{
+        margin-left: -90px;
+    }
+    .kapsa .one{
+        margin-left: -60px;
+    }
+
+
+}
+
+@media screen and (max-width:1280px){
+    .kapsa{
+        margin-left: -40px;
+    }
+    .kapsa .haber{
+        margin-left: 40px;
+    }
+    .kapsa .like{
+        margin-left: 40px;
+    }
+    .kapsa .three{
+        margin-left: -40px;
+    }
+    .kapsa .one{
+        margin-left: 50px;
+    }
+    .kapsa .ikii{
+        margin-left: 10px;
+    }
+    .kapsa .home2{
+        margin-left: 10px;
+    }
+    .kapsa .global1{
+        margin-left: 90px;
+    }
+    .kapsa .three{
+        display: none;
+    }
+}
+@media screen and (max-width:1220px){
+    .type1{
+        width: 150px;
+        height: 60px;
+    }
+    .type1 img{
+        width: 45px;
+        height: 45px;
+        margin-left: 0px;
+        margin-top: 5px;
+    }
+    .one i{
+        font-size: 18px;
+        padding-top: 5px;
+    }
+    .home2{
+        margin-top: 120px;
+        margin-left: -120px;
+        width: 500px;
+    }
+    .ikii{
+        margin-left: -120px;
+        /* width: 560px; */
+        width: 500px;
+    }
+    .kapsa3 .global1{
+        margin-left: 180px;
+    }
+    .sup p{
+        position: relative;
+       left: 20px;
+       top: 20px;
+    }
+    .ılgı h5{
+        left: 230px;
+    }
+    .kapsa3 .gift i{
+        margin-left: 60px;
+    }
+    .kapsa3 .profil img{
+        margin-top: 50px;
+    }
+    .kapsa3 .like{
+        margin-left: 750px;
+    }
+
+    
+    
+    .ikii h5{
+        margin-left: 50px;
+    }
+    .home2 img{
+        margin-left: 50px;
+    }
+    /* hr{
+        margin-left: -110px;
+    } */
+    .global1{
+        
+        margin-left: -50px;
+    }
+    .global img{
+        width: 60px;
+        height: 60px;
+        margin-left: 150px;
+    }
+    .global{
+        width: 520px;
+    }
+    .profil img{
+        width: 300px;
+        margin-left: 150px;
+    }
+    .profil{
+        width: 520px;
+    }
+    .gift {
+        margin-left: 100px;
+    }
+    .search{
+        margin-left: -20px;
+    }
+    .three{
+        margin-left: -10px;
+    }
+    .form-control{
+        width: 300px;
+        margin-left: 0px;
+    }
+    .kapsa3 .pmg img{
+        margin-left: 60px;
+    }
+    .gifti{
+        margin-left: 5px;
+    }
+    .kapsa4 .ılgı{
+        margin-left: 230px;
+    }
+
+
+}
+@media screen and (max-width:1250px){
+    .profile1{
+        right: 150px;
+    }
+    .back img{
+        width: 550px;
+    }
+    .kapsa2 .three{
+        position: relative;
+        right: -30px;
+    }
+    .kapsa2 .ilk{
+        margin-left: -10px;
+    }
+
+}
+@media screen and (max-width:1200px){
+    .kapsa4 .like{
+        left: 1030px;
+    }
+    .kapsa4 .one{
+        left: 50px;
+    }
+}
+@media screen and (max-width:1110px){
+    .kapsa4 .like{
+        display: none;
+    }
+    .kapsa4 .sear{
+        margin-left: -200px;
+    }
+}
+@media screen and (max-width:1000px){
+    .kapsa .one{
+        margin-left: -100px;
+
+    }
+    .kapsa .ikii{
+        width: 500px;
+        margin-left: -150px;
+    }
+    .kapsa .home2{
+        margin-left: -150px;
+    }
+    .kapsa .global1{
+        margin-left:-100px;
+    }
+    .kapsa .three{
+        display: none;
+    }
+    .kapsa4 .sear{
+        margin-left: -300px;
+    }
+}
+@media screen and (max-width:1024px){
+    .kapsa .haber{
+        margin-left: 20px;
+    }
+    .kapsa .like{
+        margin-left: 20px;
+    }
+}
+@media screen and (max-width:1182px){
+    .kapsa2 .three{
+        position: relative;
+        right: -20px;
+    }
+    .profile1{
+        right: 130px;
+    }
+}
+@media screen and (max-width:1146px){
+    .kapsa2 .three{
+        display: none;
+    }
+    .profile1{
+        right: 450px;
+    }
+    .back img{
+        width: 600px;
+    }
+    .pro img{
+        width: 100px;
+        height: 100px;
+    }
+    .pro button{
+        width: 150px;
+        font-size: 15px;
+    }
+    .b2{
+        width: 500px;
+    }
+    .kapsa3 .like{
+        display: none;
+    }
+}
+@media screen and (max-width:1220px){
+    .ikii{
+        width: 450px;
+    }
+}
+
+@media screen and (max-width:1024px){
+    .kapsa{
+        margin-left: -35px;
+    }
+}
+@media screen and (max-width:1030px){
+    .type{
+        width: 140px;
+    }
+}
+@media screen and (max-width:1000px){
+    .type i{
+        font-size: 25px;
+    }
+    .type a{
+        display: none;
+    }
+    .type:hover{
+        width: 50px;
+        background-color: black;
+        
+    }
+    .three{
+        display: none;
+    }
+    .ilk{
+        width: 605px;
+    }
+    
+    .tü button{
+        width: 50px;
+        height: 50px;
+    }
+    .tü a{
+        display: none;
+    }
+    .type1 p{
+        display: none;
+    }
+    .type1{
+        width: 60px;
+        height: 60px;
+        margin-top: 170px;
+        border-radius: 50%;
+    }
+    .type1 img{
+        width:50px;
+        height: 50px;
+        position: relative;
+        top: -7px;
+        
+
+    }
+    .home2{
+        margin-top: 118px;
+        margin-left: -170px;
+    }
+    .ikii{
+        margin-left: -170px;
+    }
+   
+    
+    .ikii h5{
+        margin-left: 60px;
+        font-size: 20px;
+    }
+    .ikii p{
+        font-size: 15px;
+    }
+    .home2 img{
+        margin-left: 50px;
+    }
+    .c1{
+       background-color: black;
+       margin-left: 30px;
+    }
+    .c2{
+        background-color: black;
+
+    }
+    .global1{
+        
+        margin-left: -100px;
+    }
+    .search{
+        width: 300px;
+    }
+    .three{
+       background-color: white;
+    }
+    .imgg img{
+        display: none;
+    }
+    .b7{
+        width: 500px;
+    }
+    .profile1{
+        right: 350px;
+    }
+    .back img{
+        width: 600px;
+    }
+}
+@media screen and (max-width:912px){
+    .kapsa{
+        margin-left: 0px;
+    }
+}
+@media screen and (max-width:880px){
+    .home2{
+        margin-top: 118px;
+        margin-left: -170px;
+    }
+    .ikii{
+        margin-left: -170px;
+    }
+    .profile1{
+        right: 350px;
+    }
+   
+}
+@media screen and (max-width:820px){
+    .kapsa{
+        margin-left: -40px;
+    }
+    .kapsa .ikii{
+        width: 500px;
+        margin-left: -200px;
+    }
+    .kapsa .home2{
+        margin-left: -200px;
+    }
+    .kapsa .global1{
+        margin-left:-150px;
+    }
+    .kapsa .gift i{
+        font-size: 12px;
+        margin-left: 15px;
+    }
+    .kapsa .gift{
+        margin-left: 150px;
+    }
+    .kapsa .one{
+        margin-left: 0px;
+    }
+}
+@media screen and (max-width:800px){
+    .imgg img{
+        width: 80px;
+        height: 60px;
+    }
+    .search2{
+        margin-left: 150px;
+    }
+    .ılgı h5{
+        left: 120px;
+    }
+    .kapsa3 .global1{
+        margin-left: 60px;
+    }
+    .kapsa3 .global{
+        margin-left: -40px;
+    }
+    .kapsa3 .sup{
+        margin-left: 50px;
+    }
+    .kapsa3 .profil img{
+        margin-left: 200px;
+    }
+    .kapsa3 .pmg img{
+        margin-left: 100px;
+    }
+    .kapsa3 .gift{
+        margin-left: 200px;
+    }
+    .kapsa3 .gifti{
+        margin-left: 100px;
+    }
+    .kapsa4 .form-control{
+        width: 400px;
+        position: relative;
+        left: 240px;
+    }
+   
+}
+@media screen and (max-width:800px){
+    .ikii{
+        width: 500px;
+    }
+    .imgg img{
+        display: none;
+    }
+    .search2 .form-control{
+        width: 500px;
+        margin-left: -50px;
+        /* background-color: black; */
+    }
+    
+}
+@media screen and (max-width:768px){
+    .kapsa{
+        margin-left: -20px;
+    }
+}
+@media screen and (max-width:724px){
+    
+    .home2{
+        margin-top: 118px;
+        margin-left: -210px;
+    }
+    .home2 button{
+        margin-left: -100px;
+    }
+    .ikii{
+        width: 348px;
+        margin-left: -180px;
+    }
+    .ikii p{
+       display: none;
+    }
+    .ilk{
+        width: 420px;
+    }
+   
+    .home{
+        width: 100px;
+    }
+    .home h5{
+        position: relative;
+        top: 50px;
+        left: 30px;
+    }
+    .ikii h5{
+        margin-left: 80px;
+    }
+    .home2 img{
+        margin-left: 80px;
+    }
+    .global1{
+        
+        margin-left: -140px;
+    }
+    .home2{
+        width: 380px;
+    }
+    .global1 img{
+        margin-left: 90px;
+    }
+    .global{
+        width: 400px;
+    }
+    .profil{
+        width: 400px;
+    }
+    .gift{
+        margin-left: 40px;
+    }
+    .imgg img{
+        display: none;
+    }
+    .b9 img{
+        width: 250px;
+        height: 250px;
+    }
+    .pro button{
+        margin-left: 170px;
+        width: 100px;
+        font-size: 10px;
+    }
+    .kapsa3 .global{
+        margin-left: -40px;
+    }
+    .kapsa3 .gift{
+        margin-left: 90px;
+    }
+    .kapsa3 .form-control{
+        width: 400px;
+    }
+    .kapsa3 .profil img{
+        width: 400px;
+        margin-left: 150px;
+    }
+    .kapsa3 .sup{
+        margin-left: 50px;
+    }
+    .kapsa3 .profil img{
+        margin-left: 200px;
+    }
+    .kapsa3 .global{
+        margin-left: 30px;
+    }
+    .kapsa3 .sup p{
+        font-size: 13px;
+        margin-left: 50px;
+    }
+    .kapsa3 .pmg img{
+        margin-left: 100px;
+    }
+    .kapsa3 .gift{
+        margin-left: 150px;
+    }
+    .kapsa3 .gift i{
+       
+        font-size: 12px;
+    }
+    .kapsa3 .gifti i{
+        font-size: 13px;
+    }
+    .kapsa3 .gifti {
+        margin-left: 50px;
+    }
+    .kapsa .one{
+        margin-left: -70px;
+    }
+    .kapsa .ikii{
+        width: 500px;
+        margin-left: -200px;
+    }
+    .kapsa .home2{
+        margin-left: -250px;
+    }
+    .kapsa .global1{
+        margin-left:-150px;
+    }
+    .kapsa .gift{
+        margin-left: 90px;
+    }
+    
+    
+}
+@media screen and (max-width:690px){
+    .profile1{
+        right: 250px;
+    }
+    .back img{
+        width: 400px;
+    }
+    .b7{
+        width: 400px;
+    }
+    .b2{
+        width: 400px;
+    }
+    .kapsa4 .form-control{
+        width: 300px;
+        position: relative;
+        left: 240px;
+    }
+}
+@media screen and (max-width:600px){
+    .imgg img{
+        width: 70px;
+        height: 50px;
+    }
+    .home2{
+        display: none;
+    }
+    .two{
+        background-color: rgb(255, 255, 255);
+        /* position: relative; */
+    }
+    .ikii {
+        width: 280px;
+    }
+    .c1 p{
+        width: 100%;
+       margin-left: 60px;
+    }
+    .home2{
+        width: 300px;
+    }
+    .global{
+        width: 330px;
+    }
+    .profil{
+        width: 330px;
+    }
+    .profil img{
+        width: 200px;
+        margin-left: 40px;
+
+    }
+    .kapsa .gift i{
+        font-size: 8px;
+        margin-left: 30px;
+    }
+    .kapsa .gift{
+        margin-left: 30px;
+        
+    }
+    .kapsa .global{
+        margin-top: 50px;
+        margin-left: -150px;
+    }
+    .kapsa .ikii{
+        margin-left: -200px;
+    }
+    .kapsa .global1{
+        margin-left: -110px;
+    }
+    .kapsa .one{
+        margin-left: -20px;
+    }
+    .global img{
+        width: 35px;
+        height: 35px;
+    }
+    .global h5{
+        font-size: 10px;
+    }
+    .rep i{
+        position: relative;
+        right: 40px;
+    }
+    .imgg img{
+        display: none;
+    }
+}
+@media screen and (max-width:540px){
+    .kapsa{
+        margin-left: 25px;
+        
+    }
+    
+}
+@media screen and (max-width:530px){
+    .profile1{
+        right: 200px;
+    }
+    .profile1 button{
+        margin-left: 90px;
+    }
+    .back img{
+        width: 400px;
+        margin-left: -40px;
+    }
+    .b7{
+        width: 400px;
+    }
+    .b2{
+        width: 400px;
+    }
+    .kapsa2 .ilk{
+        display: none;
+    }
+}
+@media screen and (max-width:500px){
+    .imgg img{
+        width: 60px;
+        height: 40px;
+    }
+    .home2{
+        display: none;
+    }
+    .ikii {
+        width: 300px;
+    }
+    .c1{
+        width: 120px;
+        margin-left: 10px;
+    }
+    .c1 p{
+        margin-left: 30px;
+    }
+    .c2{
+        width: 120px;
+        margin-left: 30px;
+    }
+    .c2 p{
+        margin-left: -90px;
+        width: 100%;
+    }
+    .imgg img{
+        display: none;
+    }
+    .b7{
+        margin-left: -40px;
+    }
+    .b4{
+       width: 300px;
+    }
+    .profile1{
+        margin-left: 20px;
+    }
+    .back img{
+        width: 350px;
+        margin-left: -10px;
+    }
+    .pro img{
+        width: 60px;
+        height: 60px;
+        margin-left: 30px;
+        margin-top: 40px;
+    }
+    .pro button{
+        display: none;
+    }
+    .b1 h4{
+        display: none;
+    }
+    .b1 h5{
+        display: none;
+    }
+    .b7{
+        margin-left: 30px;
+        width: 100px;
+    }
+    .b88 p{
+        display: none;
+    }
+    .b2{
+        flex-direction: column;
+        width: 350px;
+    }
+    .b3{
+        position: relative;
+        width: 300px;
+        top: -50px;
+    }
+    .b22{
+        position: relative;
+        left: 20px;
+        width: 300px;
+    }
+    .b4{
+        margin-left: 20px;
+    }
+    
+}
+@media screen and (max-width:440px){
+    .imgg img{
+        width: 40px;
+        height: 30px;
+    }
+    .type i{
+        font-size: 20px;
+    }
+    .tü button{
+        width: 40px;
+        height: 40px;
+        margin-left: 10px;
+    }
+    .type1 img{
+        width: 40px;
+        height: 40px;
+        
+    }
+    .type1{
+        width: 50px;
+        height: 50px;
+    }
+    .ikii {
+        margin-left: -230px;
+    }
+    .ikii{
+        width: 300px;
+    }
+    .c1{
+        width: 100px;
+        margin-left: 70px;
+    }
+    .c1 p{
+        margin-left: 30px;
+        font-size: 13px;
+    }
+    .c2{
+        width: 100px;
+        margin-left: 50px;
+    }
+    .c2 p{
+        margin-left: -90px;
+        width: 100%;
+        font-size: 13px;
+    }
+    .imgg img{
+        display: none;
+    }
+    .profile1{
+       left: -180px;
+    }
+    .back img{
+        width: 300px;
+    }
+    .b2{
+        width: 300px;
+    }
+    
+    
+}
+@media screen and (max-width:414px){
+    .kapsa{
+        margin-left: -3px;
+    }
+}
+@media screen and (max-width:412px){
+    .kapsa{
+        margin-left: 0px;
+    }
+}
+@media screen and (max-width:410px){
+    .ikii{
+        width: 300px;
+    }
+    .c1{
+        margin-left: 40px;
+    }
+    .c1 p{
+        margin-left: 20px;
+    }
+    .c2{
+        width: 100px;
+        margin-left: 20px;
+    }
+    .c2 p{
+        margin-left: -90px;
+        width: 100%;
+        font-size: 13px;
+    }
+    .imgg img{
+        display: none;
+    }
+    .profile1{
+        left: -160px;
+    }
+    .b6 p{
+        margin-left: 10px;
+    }
+    .b9{
+        margin-left: -20px;
+    }
+}
+@media screen and (max-width:375px){
+    .kapsa{
+        margin-left: -15px;
+    }
+    /* .b2{
+        width: 280px;
+    } */
+    .kapsa .one{
+        margin-left: 0px;
+    }
+}
+@media screen and (max-width:350px){
+    
+    .type1 img{
+        width: 30px;
+        height: 30px;
+        
+    }
+    .type1{
+        width: 40px;
+        height: 40px;
+    }
+    .tü button{
+        width: 30px;
+        height: 30px;
+        margin-left: 10px;
+    }
+    .ikii{
+        width: 300px;
+    }
+    .c1{
+        margin-left: 20px;
+    }
+    .c1 p{
+        margin-left: 20px;
+    }
+    .c2{
+        width: 100px;
+        margin-left: 20px;
+    }
+    .c2 p{
+        margin-left: -90px;
+        width: 100%;
+        font-size: 13px;
+    }
+    .imgg img{
+        display: none;
+    }
+}

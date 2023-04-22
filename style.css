@@ -1,0 +1,816 @@
+*{
+    box-sizing: border-box;
+}
+.kapsa{
+    background-color: #000000;
+}
+body{
+    background-color: #000000;
+}
+.ilk{
+    background-color: rgb(0, 0, 0);
+    width: 100%;
+    padding: 0;
+}
+.one{
+   
+    width: 15%;
+    min-height: 2000px;
+    position: fixed;
+    background-color: black;
+}
+.kapsa .one{
+    margin-left: -50px;
+}
+.kapsa .three{
+    margin-left: 100px;
+}
+.imgg{
+    text-align: center;
+    
+}
+
+.imgg img{
+    width: 120px;
+    height: 80px;
+    border-radius: 50%;
+    
+}
+.imgg img:hover{
+    background-color: #333;
+    cursor: pointer;
+    transform: scale(1.1);
+    transition-duration: 0.5s;
+}  
+.one i{
+    font-size: 25px;
+    margin-top: 20px;
+    color: white;
+    margin-left: 20px;
+} 
+.one a{
+    color: white;
+    font-size: 18px;
+    font-weight: bold;
+    text-decoration: none;
+    
+}
+.p1{
+    margin-left: 20px;
+    margin-top: 21px;
+}
+.p3{
+    margin-left: 14px;
+    margin-top: 21px;
+}
+
+.p4{
+    margin-left: 25px;
+    margin-top: 21px;
+}
+.p2{
+    margin-left: 60px;
+    margin-top: -35px;
+}
+.type{
+    margin-top: 5px;
+    width: 170px;
+    border-radius: 25px;
+}
+.type:hover{
+    cursor: pointer;
+    background-color: #333;
+    color: black;
+    
+}
+.type1{
+    width: 250px;
+    border-radius: 25px;
+    
+}
+.t1{
+    position: relative;
+    left: 20px;
+    top:7px;
+
+}
+.type1:hover{
+    cursor: pointer;
+    /* background-color: #333;
+    color: black; */
+    
+}
+.type i{
+    position: relative;
+    top: -10px;
+}
+.type a{
+    position: relative;
+    top: -10px;
+}
+.tü{
+    margin-top: 30px;
+}
+.tü i{
+    color: #333;
+    margin-left: 0px;
+    margin-top: 2px;
+}
+.tü i:hover{
+    cursor: pointer;
+    color:  #00e5ee;
+}
+.tü p:hover{
+    cursor: pointer;
+
+}
+.tü button{
+    width: 50px;
+    height: 50px;
+    border-radius: 50%;
+    margin-top: -15px;
+    margin-left: 5px;
+    border: none;
+}
+.tü button:hover{
+    background-color: #333;
+    cursor: pointer;
+    
+}
+.type1 img{
+    width: 50px;
+    height: 50px;
+    border-radius: 50%;
+}
+.type1{
+    margin-top: 200px;
+    margin-left: 0px;
+}
+.type1 p{
+    font-size: 15px;
+    color: rgb(255, 255, 255);
+    
+    
+}
+.b{
+    margin-left: 15px;
+    margin-top: 5px;
+}
+.e{
+    margin-left: 15px;
+    margin-top: -15px;
+    opacity: 0.5;
+}
+.t2{
+    margin-left: 45px;
+    margin-top: 15px;
+}
+/* one sonu */
+
+/* two başlangıç */
+
+.two{
+    width: 40%;
+    height: 120px;
+    background-color: #000000;
+    
+    margin-left: 275px;
+    
+}
+.ikii{
+    position: fixed;
+    z-index: 2;
+    background-color: #000000;
+    width: 600px;
+    min-height: 120px;
+}
+.two p{
+    font-size: 20px;
+    color: white;
+    margin: 60px;
+    
+    
+}
+.follow{
+    position: relative;
+    left: 100px;
+}
+.two h5{
+    color: white;
+    font-size: 25px;
+    margin-left: 10px;
+}
+.two h5:hover{
+    cursor: pointer;
+}
+.home{
+    height: 10px;
+}
+/* hr{
+    color: rgb(255, 255, 255);
+    height: 50px;
+    width: 550px;
+    margin-top: 115px;
+    margin-left: -130px;
+    
+    
+} */
+.c1{
+    width: 270px;
+    height: 50px;
+    background-color: #000000;
+    margin-top: 50px;
+    margin-left: 0px;
+}
+.c2{
+    width: 250px;
+    height: 50px;
+    background-color: #000000;
+    margin-top: 50px;
+    margin-left: 0px;
+}
+.c1:hover{
+    cursor: pointer;
+    background-color: #9e9e9e;
+    
+}
+.c2:hover{
+    cursor: pointer;
+    background-color:  #9e9e9e;
+    
+}
+.you p{
+    position: relative;
+    top: -50px;
+}
+.c2 p{
+    margin-left:-35px;
+}
+.c1 p{
+    margin-left:85px;
+}
+.img2{
+    width: 50px;
+    height: 50px;
+    border-radius: 50%;
+    margin-left: 20px;
+    margin-top: 15px;
+}
+.img2:hover{
+    cursor: pointer;
+    opacity: 0.5;
+    transition-duration: 0.3s;
+}
+.message input{
+    font-size: 20px;
+    color: white;
+    position: relative;
+    top: 30px;
+    left: 10px;
+    background-color: #000000;
+    border: none;
+    
+}
+.home2{
+    width: 600px;
+    margin-top: -15px;
+    margin-left: 0px;
+    min-height: 200px;
+}
+.tweet{
+    margin-left: 200px;
+    margin-top: -10px;
+}
+.tweet button{
+    width: 100px;
+    height: 40px;
+    border-radius: 25px;
+    background-color: white;
+    border: none;
+    display: block;
+    margin-top: 85px;
+    font-weight: bold;
+    
+}
+.tweet button:hover{
+    opacity: 0.7;
+    transition-duration: 0.5s;
+
+}
+.date i{
+    margin-left: 20px;
+    position: relative;
+    top: 80px;
+    color: white;
+}
+.date i:hover{
+    cursor: pointer;
+    opacity: 0.8;
+    transition-duration: 1s;
+}
+.date{
+    margin-left: 70px;
+}
+.global img{
+    width: 70px;
+    height: 70px;
+    margin-top: 80px;
+    margin-left: 20px;
+    border-radius: 50%;
+}
+.global img:hover{
+    cursor: pointer;
+    opacity: 0.7;
+    transition-duration: 0.5s;
+}
+.global{
+    width: 600px;
+    margin-left: -90px;
+}
+.global h5{
+    margin-top: 100px;
+    font-size: 15px;
+}
+.ber h5{
+    opacity: 0.5;
+}
+.profil{
+    width: 600px;
+    margin-left: -90px;
+}
+.profil img{
+    margin-left: 100px;
+    border-radius: 15px;
+}
+.profil img:hover{
+    cursor: pointer;
+    opacity: 0.7;
+    transition-duration: 0.5s;
+}
+
+.gift i{
+    margin-left: 50px;
+    color: white;
+}
+.gift i:hover{
+    transform: scale(1.05);
+    cursor: pointer;
+    /* color: #00e5ee; */
+    transition-duration: 0.5s;
+}
+.gift{
+    margin-left: 60px;
+    margin-top: 10px;
+}
+/* .heart i{
+    color: rgb(255, 255, 255);
+} */
+/* .heart i:hover{
+    color: red;
+} */
+.three{
+    background-color: #000000;
+    margin-left: 50px;
+    width: 400px;
+    height: 2656px;
+}
+.form-control{
+    width: 280px;
+    margin-left: 25px;
+    margin-top: 10px;
+}
+.search{
+    position: fixed;
+    z-index: 2;
+    background-color: #000000;
+}
+.btn{
+    color: #00e5ee;
+    border-color: #00e5ee;
+    margin-top: 10px;
+}
+.btn:hover{
+    color: rgb(0, 0, 0);
+    background-color: #ffffff;
+}
+.haber{
+    width: 350px;
+    color: rgb(0, 0, 0);
+    background-color: #ffffff;
+    border-radius: 15px;
+    margin-top: 70px;
+    margin-left: 45px;
+}
+.like{
+    width: 350px;
+    color: rgb(0, 0, 0);
+    background-color: #ffffff;
+    border-radius: 15px;
+    margin-top: 70px;
+    margin-left: 45px;
+}
+.like img{
+    width: 60px;
+    height: 60px;
+    border-radius: 50%;
+}
+.like .content{
+    height: 80px;
+}
+.like button{
+    width: 100px;
+    height: 40px;
+    display: block;
+    margin-left: 180px;
+    margin-top: -150px;
+    border-radius: 25%;
+    background-color: rgb(0, 0, 0);
+    border: none;
+    color: rgb(255, 255, 255);
+    font-weight: bold;
+}
+.like button:hover{
+    background-color: #000000;
+    opacity: 0.5;
+}
+
+.like img:hover{
+    opacity: 0.6;
+}
+.haber p{
+    margin-left: 15px;
+}
+.tr p{
+    font-weight: bold;
+}
+.g p{
+    position: relative;
+    top: 15px;
+    
+}
+.haber h4{
+    margin-left: 15px;
+}
+.tw p{
+    position: relative;
+    top: -15px;
+}
+.next{
+    margin-left: 15px;
+    color: #00e5ee;
+    position: relative;
+    top: -10px;
+}
+
+.haber .content:hover{
+    cursor: pointer;
+    background-color: #000000;
+    color: white;
+}
+.like h4{
+    margin-left: 15px;
+}
+.like h5{
+    font-size: 15px;
+    margin-left: 9px;
+}
+.like .content:hover{
+    cursor: pointer;
+    
+}
+.berk h5{
+    position: relative;
+    top: 10px;
+    height: 30px;
+    
+}
+.berr h5{
+    position: relative;
+    top: -50px;
+    height: 30px;
+}
+.nextt{
+    width: 150px;
+    position: relative;
+    top: -2px;
+    left: 15px;
+    color: #00e5ee;
+}
+.hiz{
+    width: 350px;
+    color: white;
+    background-color: #393939;
+    border-radius: 15px;
+    margin-top: 70px;
+    margin-left: 45px;
+}
+.hiz{
+    margin-top: 150px;
+}
+.hiz a{
+    color: rgb(30, 88, 138);
+}
+/* profil */
+.back img{
+    width: 550px;
+    /* margin-left: 190px; */
+}
+.back img:hover{
+    opacity: 0.4;
+    transition-duration: 0.8s;
+}
+.pro img{
+    width: 120px;
+    height: 120px;
+    border-radius: 50%;
+    margin-left: 0px;
+}
+.profile1{
+    background-color: #000000;
+    width: 40%;
+    position: relative;
+    right:70px;
+    
+}
+.pro button{
+    width: 140px;
+    height: 40px;
+    margin-left: 250px;
+    margin-top: 50px;
+    border-radius: 25px;
+    font-weight: bold;
+    border: none;
+}
+.b1 h5{
+    color: white;
+    font-size: 15px;
+    margin-top: 15px;
+    margin-left: 10px;
+}
+.b1 h4{
+    color: white;
+    font-size: 20px;
+    margin-left: 10px;
+    position: relative;
+    top: 15px;
+}
+.b2 .content{
+    margin-top: 20px;
+    color: rgb(163, 163, 163);
+}
+.b3{
+    margin-left: 20px;
+}
+
+.b4 p{
+    color:  rgb(163, 163, 163);
+}
+.numberr p{
+    font-weight: bold;
+    color: white;
+}
+.b5{
+    margin-left: 10px;
+}
+.profile1 img:hover{
+    cursor: pointer;
+}
+.pro img:hover{
+    opacity: 0.5;
+    transition-duration: 0.5s;
+}
+.profile1 button:hover{
+    opacity: 0.5;
+    transition-duration: 0.5s;
+}
+.b6 p{
+    margin-left: 55px;
+    margin-top: 20px;
+    font-weight: bold;
+    color: rgb(163, 163, 163);
+    cursor: pointer;
+    
+}
+.b6 p:hover{
+    transform: scale(1.05);
+    transition-duration: 0.3s;
+
+}
+.twt p{
+    color: white;
+}
+.b7 img{
+    width: 50px;
+    height: 50px;
+    border-radius: 50px;
+}
+.b7 p{
+    margin-left: 15px;
+    margin-top: 10px;
+    color: rgb(163, 163, 163);
+}
+.b8 p{
+    color: white;
+    font-weight: bold;
+}
+.b8 p:hover{
+    cursor: pointer;
+}
+.b9 img{
+    width: 300px;
+    height: 300px;
+    border-radius: 20px;
+    margin-left: 50px;
+}
+.b9 img:hover{
+    cursor: pointer;
+    opacity: 0.5;
+    transition-duration: 0.5s;
+}
+.b7 img:hover{
+    cursor: pointer;
+    opacity: 0.5;
+    transition-duration: 0.5s;
+}
+.gift2 i{
+    margin-left: 30px;
+}
+.gift2{
+    margin-left: 30px;
+    margin-top: 5px;
+}
+.gift2 i:hover{
+    cursor: pointer;
+    /* color: #00e5ee; */
+}
+/* .heart i:hover{
+    color: red;
+} */
+.kapsa2 .ilk{
+    margin-left: 50px;
+}
+.kapsa2{
+    width: 100%;
+    background-color: #000000;
+}
+/* .kapsa2 .three{
+    position: relative;
+    right: 0px;
+    background-color: #000000;
+} */
+/* kesfet */
+.search2{
+    background-color: #000000;
+    position: fixed;
+    z-index: 2;
+    margin-left: 450px;
+}
+.search2 .form-control{
+    width: 600px;
+    
+    
+}
+.pmg {
+    margin-left: 80px;
+}
+.gifti .comment {
+    margin-left: 80px;
+}
+.ılgı h5{
+    position: relative;
+    top: 100px;
+    left: 490px;
+    color: white;
+    font-weight: bold;
+}
+.days {
+    margin-top: 30px;
+}
+.news h5{
+    font-size: 14px;
+    opacity: 0.5;
+}
+.news2 h5{
+    font-size: 14px;
+    margin-left: 15px;
+    opacity: 0.5;
+}
+.kapsa3 .global1{
+    margin-top: 80px;
+    margin-left: 500px;
+}
+.kapsa3 .profil img{
+    width: 500px;
+    height: 400px;
+} 
+.kapsa3 .global .h5{
+    font-size: 20px;
+    color: rgb(9, 116, 255);
+    
+}
+.sup p{
+    width: 100%;
+    color: white;
+    margin-left: 40px;
+    margin-top: -20px;
+}
+.sup{
+    width: 500px;
+}
+.neew{
+    width: 40%;
+}
+.days .content{
+    cursor: pointer;
+}
+.kapsa3 .like{
+    
+    position: fixed;
+    margin-left: 1400px;
+    height: 400px;
+    margin-top: 20px;
+}
+.hizz{
+    margin-top: 20px;
+}
+.hizz a{
+    font-size: 14px;
+    margin-left: 10px;
+    color: white;
+    opacity: 0.5;
+    text-decoration: none;
+}
+.hiz2{
+    margin-top: -60px;
+}
+.hiz3{
+    margin-top: -60px;
+}
+.hizz a:hover{
+    text-decoration: underline;
+}
+.form-control{
+    width: 310px;
+}
+.kapsa3 .pmg img{
+    margin-left: 20px;
+}
+.gifti{
+    margin-left: -20px;
+}
+.neew{
+    background-color: #000000;
+}
+/* kayit */
+
+
+.kapsa4 .hizz a{
+    color: #000000;
+}
+.kapsa4 .hizz {
+    margin-top: -50px;
+}
+.kapsa4 .like i{
+    position: relative;
+    left: 250px;
+    top: -140px;
+    color: red;
+}
+.kapsa4 .apple button{
+    width: 250px;
+    margin-top: 10px;
+    margin-left: 10px;
+}
+.HES button{
+    width: 250px;
+    margin-top: -70px;
+    margin-left: 70px;
+}
+.kapsa4{
+    width: 100%;
+
+}
+.kapsa4 .one{
+    width: 20%;
+}
+.kapsa4 .sear{
+    width: 50%;
+}
+.kapsa4 .like{
+    position: relative;
+    left: 1480px;
+    top: -600px;
+}
+.kapsa4 .apple i{
+    position: relative;
+    left: -50px;
+    top: 0px;
+    font-size: 25px;
+    color: white;
+}
+.kapsa4 .like p{
+    font-size: 13px;
+    margin-left: 20px;
+    margin-top: -50px;
+    font-weight: bold;
+}
